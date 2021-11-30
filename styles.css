@@ -87,3 +87,39 @@ th,td {
 .number-of-notes{
     background-color: white;
 }
+.footer{
+  background-color: var(--primary-color);
+  padding: 2rem 4rem;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  display: block;
+  border-top-right-radius: 1rem;
+  color: white;
+  
+  }
+  .footer .footer-lists{
+  text-decoration: none;
+  text-align: center;
+  color:white;
+  }
+  .footer-links{
+  text-decoration: none;
+  color:white;
+  cursor: pointer;
+  
+  }
+  .footer ul {
+  padding-inline-start: 0px;
+  }
+  .footer-div{
+  text-align: center;
+  font-weight: bold;
+  
+  }
+  
+  .list-inline{
+  display: inline;
+  
+  padding: 0rem 1rem;
+  }
